@@ -17,6 +17,7 @@ A simple windows CLI application for accessing ripped media. These are all check
 ## Installation
 
 Linux:
+
 cd to the location you wish to install FreeSearcher
 
 Then run:
