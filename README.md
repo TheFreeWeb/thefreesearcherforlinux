@@ -10,6 +10,8 @@ ___________________________________________ ____________________   _____ _______
 ```
 A simple windows CLI application for accessing ripped media. These are all checked by us, and are 100% safe.
 
+- FOR INSTRUCTIONS ON HOW TO USE, CHECK OUT https://github.com/WooRepo/FreeSearcher -
+
 -THIS IS A WORK IN PROGRESS!-
 
 ## Installation
