@@ -18,10 +18,9 @@ A simple windows CLI application for accessing ripped media. These are all check
 
 Linux:
 
-cd to the location you wish to install FreeSearcher
+Download the files and extract to your desired location
 
-Then run:
->  wget https://github.com/XanderIsBored/thefreesearcherforlinux.git
+Then cd to that location in terminal
 
 Then make the file executable using
 >  chmod u+x Main.sh
