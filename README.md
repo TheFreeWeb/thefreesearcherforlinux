@@ -18,9 +18,9 @@ A simple windows CLI application for accessing ripped media. These are all check
 
 Linux:
 
-Download the files and extract to your desired location
+Download the files and extract them to your desired location
 
-Then cd to that location in terminal
+Then cd to that location in terminal.
 
 Then make the file executable using
 >  chmod u+x Main.sh
