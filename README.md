@@ -1,5 +1,5 @@
 
-# FreeSearcher
+# FreeSearcherForLinux
 ```
 ___________________________________________ ____________________   _____ ___________________   ___ ________________________
 \_   _____/\______   \_   _____/\_   _____//   _____/\_   _____/  /  _  \\______   \_   ___ \ /   |   \_   _____/\______   \
@@ -17,9 +17,7 @@ A simple windows CLI application for accessing ripped media. These are all check
 ## Installation
 
 Linux:
-
-
-> cd to the location you wish to install FreeSearcher
+cd to the location you wish to install FreeSearcher
 
 Then run:
 >  wget https://github.com/XanderIsBored/thefreesearcherforlinux.git
